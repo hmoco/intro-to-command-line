@@ -32,6 +32,12 @@ body {
     font-size: $fontSize * 1.1;
   }
 
+  a1 {
+    color: $accent;
+    font-size: $fontSize * .5;
+    font-weight: 700;
+  }
+
 
   strong {
     font-weight: 700;
