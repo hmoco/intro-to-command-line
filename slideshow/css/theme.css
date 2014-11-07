@@ -22,6 +22,10 @@ body {
   .reveal .slides section h3 {
     color: #2D3E50;
     font-size: 2.2em; }
+  .reveal .slides section a1 {
+    color: #E64C66;
+    font-size: 1em;
+    font-weight: 700; }
   .reveal .slides section strong {
     font-weight: 700; }
   .reveal .slides section pre code {
